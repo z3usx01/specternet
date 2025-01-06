@@ -45,8 +45,11 @@ cd specternet
 💡 Usage
 
 bash specternet.sh
+
 Run the tool and select a module:
+
 🛡️ Disclaimer
+
 This tool is strictly for educational purposes. Do not use it on systems you do not own or have explicit permission to test. Misuse of this tool is your responsibility.
 
 🌟 Support
