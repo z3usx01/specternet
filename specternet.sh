@@ -13,7 +13,7 @@ echo -e '\033[31;40;1m
    \|_________|          
   Coded by Z3USX01
   github: https://github.com/z3usx01
-\033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m Z3USX01
+\033[33;4mVersion:\033[0m 1            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m Z3USX01
 
 \e[37m[1]\e[36m Requests & Updates        \e[37m[2]\e[36m Phishing Tool				
 \e[37m[3]\e[36m WebCam Hack                   \e[37m[4]\e[36m Subscan			
